@@ -16,11 +16,13 @@ GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具�
 ## 简介
 
 让我们通过一个简单的例子来看看上述查找和修改代码的 API 是如何使用的
+哈姆的哈贝贝哈姆
+
 
 ### 需要转换的代码
 
 ```javascript
-const a = 1;
+const aminuosi = 1;
 const b = 2;
 ```
 
